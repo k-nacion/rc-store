@@ -1,8 +1,8 @@
 {
-  "update": "1.1-240624",
+  "update": "1.2-250517",
   "appnum": 572,
   "appver": "5.7.2",
   "appsize": "6.02 MB",
   "appurl": "https://github.com/k-nacion/rc-store/releases/download/5.7.2/5.7.2.apk",
-  "appnote": "- Add new source: miruro with 4 provider: animepahe, zoro, anivibe, gogoanime\n- Add new source: gojo\n- Fix HiAnime/Aniwatchtv and kaas streaming\n- Disable cast features"
+  "appnote": "- Add Miruro as primary source with Kiwi provider (HLS streams)\n- Add soft sub & dub streaming support (bee/ssub providers)\n- Add cinewave/streamzone/anime-dunya CDN streaming support\n- Fix CORS error on video playback - route streams through proxy\n- Fix video playback on Desktop and Android\n- Fix AniList/MAL tracking\n- Fix Frieren S2 episodes not playing - CDN/provider fallback improvements\n- Refactor electron app to clean architecture"
 }

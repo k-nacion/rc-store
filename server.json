@@ -1,8 +1,8 @@
 {
-  "update": "1.2-250517",
-  "appnum": 572,
-  "appver": "5.7.2",
+  "update": "1.3-250517",
+  "appnum": 580,
+  "appver": "5.8.0",
   "appsize": "6.02 MB",
-  "appurl": "https://github.com/k-nacion/rc-store/releases/download/5.7.2/5.7.2.apk",
-  "appnote": "- Add Miruro as primary source with Kiwi provider (HLS streams)\n- Add soft sub & dub streaming support (bee/ssub providers)\n- Add cinewave/streamzone/anime-dunya CDN streaming support\n- Fix CORS error on video playback - route streams through proxy\n- Fix video playback on Desktop and Android\n- Fix AniList/MAL tracking\n- Fix Frieren S2 episodes not playing - CDN/provider fallback improvements\n- Refactor electron app to clean architecture"
+  "appurl": "https://github.com/k-nacion/rc-store/releases/download/5.8.0/5.8.0.apk",
+  "appnote": "- Added AniSkip auto-skip (OP/ED skip times from api.aniskip.com)\n- Replaced Prefer DUB toggle with Preferred Stream selector (Hardsub/Softsub/Dub)\n- Added full stream type fallback chain with toast notifications\n- Improved CDN resilience with sequential stream validation and backup fallback\n- Added sugevideo.xyz CDN support\n- Fixed auto-skip not working for miruro source\n- Fixed stream probe failing on first CDN error\n- Migrated server config to forked rc-store repository"
 }

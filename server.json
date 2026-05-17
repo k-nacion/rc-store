@@ -1,8 +1,8 @@
 {
-  "update": "1.3-250517",
-  "appnum": 580,
-  "appver": "5.8.0",
+  "update": "1.3-250518",
+  "appnum": 581,
+  "appver": "5.8.1",
   "appsize": "6.02 MB",
-  "appurl": "https://github.com/k-nacion/rc-store/releases/download/5.8.0/5.8.0.apk",
-  "appnote": "- Added AniSkip auto-skip (OP/ED skip times from api.aniskip.com)\n- Replaced Prefer DUB toggle with Preferred Stream selector (Hardsub/Softsub/Dub)\n- Added full stream type fallback chain with toast notifications\n- Improved CDN resilience with sequential stream validation and backup fallback\n- Added sugevideo.xyz CDN support\n- Fixed auto-skip not working for miruro source\n- Fixed stream probe failing on first CDN error\n- Migrated server config to forked rc-store repository"
+  "appurl": "https://github.com/k-nacion/rc-store/releases/download/5.8.1/5.8.1.apk",
+  "appnote": "- Added dynamic Caption Language button in player settings\n- Added notification style setting (toast vs banner) for Android\n- Added auto fallback stream toggle option\n- Enabled Check for Update for all users and platforms\n- Disabled audio language option (miruro streams don't support multiple audio tracks)\n- Fixed subtitle label display showing incorrect value during async loading"
 }

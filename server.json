@@ -1,0 +1,15 @@
+{
+  "domain": "aniwave.to",
+  "domain2": "anix.to",
+
+  "stream_domain": "vidplay.online",
+  "stream_domain1": "vid2a41.site",
+  "stream_domain2": "megaf.cc",
+  "update": "1.1-240624",
+
+  "appnum": 572,
+  "appver": "5.7.2",
+  "appsize": "6.02 MB",
+  "appurl": "https://github.com/k-nacion/rc-store/releases/download/5.7.2/animetv-5.7.2.apk",
+  "appnote": "- Add new source: miruro with 4 provider: animepahe, zoro, anivibe, gogoanime\n- Add new source: gojo\n- Fix HiAnime/Aniwatchtv and kaas streaming\n- Disable cast features"
+}

@@ -1,8 +1,8 @@
 {
   "update": "1.3-250518",
-  "appnum": 581,
-  "appver": "5.8.1",
+  "appnum": 582,
+  "appver": "5.8.2",
   "appsize": "6.02 MB",
-  "appurl": "https://github.com/k-nacion/rc-store/releases/download/5.8.1/5.8.1.apk",
-  "appnote": "- Added dynamic Caption Language button in player settings\n- Added notification style setting (toast vs banner) for Android\n- Added auto fallback stream toggle option\n- Enabled Check for Update for all users and platforms\n- Disabled audio language option (miruro streams don't support multiple audio tracks)\n- Fixed subtitle label display showing incorrect value during async loading"
+  "appurl": "https://github.com/k-nacion/rc-store/releases/download/5.8.2/5.8.2.apk",
+  "appnote": "- Improved parental controls security for update checking\n- Fixed player controls not auto-hiding properly when navigating\n- Fixed remote control skipping over some menu items\n- General stability and connection improvements"
 }

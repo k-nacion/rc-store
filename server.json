@@ -1,8 +1,8 @@
 {
   "update": "1.3-250520",
-  "appnum": 5100,
-  "appver": "5.10.0",
+  "appnum": 5101,
+  "appver": "5.10.1",
   "appsize": "6.02 MB",
-  "appurl": "https://github.com/k-nacion/rc-store/releases/download/5.10.0/5.10.0.apk",
-  "appnote": "- Added anime logo (Clearlogo) display in playback title inspired by Jellyfin\n- Added settings toggle for Show Logo Title\n- Added prefetch and deduplication for AniList recently released list\n- Fixed ONA format filter removed from Recently Released section\n- Fixed smooth logo title transition with proper fade-out and slide-in\n- Fixed AniList ID fallback for TMDB logo in popup"
+  "appurl": "https://github.com/k-nacion/rc-store/releases/download/5.10.1/5.10.1.apk",
+  "appnote": "- Fixed excessive scroll in playback menu on mobile phones"
 }

@@ -1,8 +1,8 @@
 {
-  "update": "1.3-250518",
-  "appnum": 582,
-  "appver": "5.8.2",
+  "update": "1.3-250519",
+  "appnum": 590,
+  "appver": "5.9.0",
   "appsize": "6.02 MB",
-  "appurl": "https://github.com/k-nacion/rc-store/releases/download/5.8.2/5.8.2.apk",
-  "appnote": "- Improved parental controls security for update checking\n- Fixed player controls not auto-hiding properly when navigating\n- Fixed remote control skipping over some menu items\n- General stability and connection improvements"
+  "appurl": "https://github.com/k-nacion/rc-store/releases/download/5.9.0/5.9.0.apk",
+  "appnote": "- Added AniSkip submit panel for contributing OP/ED skip times\n- Added Jikan API fallback when AniList is down\n- Added AniList status banner and response cache\n- Fixed AniSkip submit on Electron (POST body handling)\n- Fixed single-stream validation for fallback triggering\n- Improved parental controls security for update checking"
 }

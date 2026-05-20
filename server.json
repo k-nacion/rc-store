@@ -1,8 +1,8 @@
 {
-  "update": "1.3-250520",
-  "appnum": 5101,
-  "appver": "5.10.1",
+  "update": "1.3-250521",
+  "appnum": 5102,
+  "appver": "5.10.2",
   "appsize": "6.02 MB",
-  "appurl": "https://github.com/k-nacion/rc-store/releases/download/5.10.1/5.10.1.apk",
-  "appnote": "- Fixed excessive scroll in playback menu on mobile phones"
+  "appurl": "https://github.com/k-nacion/rc-store/releases/download/5.10.2/5.10.2.apk",
+  "appnote": "- Fixed TMDB logo API 400 error on Android\n- Fixed opening anime from AniList MyList\n- Fixed malid type error in preview\n- Disabled ally source"
 }

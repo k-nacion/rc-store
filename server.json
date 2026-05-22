@@ -1,8 +1,8 @@
 {
   "update": "1.3-250521",
-  "appnum": 5102,
-  "appver": "5.10.2",
+  "appnum": 5110,
+  "appver": "5.11.0",
   "appsize": "6.02 MB",
-  "appurl": "https://github.com/k-nacion/rc-store/releases/download/5.10.2/5.10.2.apk",
-  "appnote": "- Fixed TMDB logo API 400 error on Android\n- Fixed opening anime from AniList MyList\n- Fixed malid type error in preview\n- Disabled ally source"
+  "appurl": "https://github.com/k-nacion/rc-store/releases/download/5.11.0/5.11.0.apk",
+  "appnote": "- Added configurable auto-skip delay setting\n- Fixed search not showing results when searching for the same anime\n- Fixed settings, playback & streaming issues\n- Major architecture refactoring for stability"
 }

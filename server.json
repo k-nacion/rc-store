@@ -1,8 +1,8 @@
 {
-  "update": "1.3-250521",
-  "appnum": 5110,
-  "appver": "5.11.0",
+  "update": "1.3-250525",
+  "appnum": 5120,
+  "appver": "5.12.0",
   "appsize": "6.02 MB",
-  "appurl": "https://github.com/k-nacion/rc-store/releases/download/5.11.0/5.11.0.apk",
-  "appnote": "- Added configurable auto-skip delay setting\n- Fixed search not showing results when searching for the same anime\n- Fixed settings, playback & streaming issues\n- Major architecture refactoring for stability"
+  "appurl": "https://github.com/k-nacion/rc-store/releases/download/5.12.0/5.12.0.apk",
+  "appnote": "- Added Anikoto source with Kiwi-Stream integration\n- Added Donghua & Dub home sections\n- Fixed Anilist romaji title fallback\n- Fixed Miruro domain benchmark errors\n- Fixed Anikoto source selection and domain selector\n- Fixed pipe API headers for all miruro domains"
 }

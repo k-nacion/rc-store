@@ -4,5 +4,5 @@
   "appver": "5.12.0",
   "appsize": "6.02 MB",
   "appurl": "https://github.com/k-nacion/rc-store/releases/download/5.12.0/5.12.0.apk",
-  "appnote": "- Added Anikoto source with Kiwi-Stream integration\n- Added Donghua & Dub home sections\n- Fixed Anilist romaji title fallback\n- Fixed Miruro domain benchmark errors\n- Fixed Anikoto source selection and domain selector\n- Fixed pipe API headers for all miruro domains"
+  "appnote": "- Added Anikoto source with Kiwi-Stream integration\n- Added Donghua & Dub home sections\n- Added dynamic CDN registry for auto-discovered streaming domains\n- Fixed Miruro stream type category logic\n- Fixed Anilist romaji title fallback\n- Fixed Miruro domain benchmark errors\n- Fixed Anikoto source selection and domain selector\n- Fixed pipe API headers for all miruro domains\n- Fixed subtitle Referer headers for Vidstream CDN"
 }

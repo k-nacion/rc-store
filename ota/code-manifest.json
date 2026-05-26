@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 1,
+  "otaVersion": "5.12.0",
+  "minAppVersion": 0,
+  "generatedAt": "2026-05-25T23:12:06.524Z",
+  "bundles": {
+    "m.js": {
+      "path": "m.js",
+      "hash": "a0932a644d76728b9f51ff60e61d28ad841f2704c3e6df6fd5a15b9904772bdd",
+      "size": 407227,
+      "updatedAt": "2026-05-25T21:25:45.272Z",
+      "version": "5.12.0"
+    },
+    "clean-arch.js": {
+      "path": "clean-arch.js",
+      "hash": "ae5ace47ee2c6fb27db6fa497dd2f8b22737cbcfdd0838c6647df2d4e4df40c5",
+      "size": 72540,
+      "updatedAt": "2026-05-25T21:25:44.733Z",
+      "version": "5.12.0"
+    },
+    "miruro-domains.js": {
+      "path": "miruro-domains.js",
+      "hash": "8bf517cb1336b3a80728045b189ec92e75f7d48d1704e150cd4daa606da6e041",
+      "size": 6268,
+      "updatedAt": "2026-05-25T07:35:30.254Z",
+      "version": "5.12.0"
+    }
+  }
+}

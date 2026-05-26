@@ -1,29 +1,30 @@
 {
   "schemaVersion": 1,
-  "otaVersion": "5.12.0",
+  "otaVersion": "5.12.1-hotfix.2",
   "minAppVersion": 0,
-  "generatedAt": "2026-05-25T23:12:06.524Z",
+  "generatedAt": "2026-05-26T22:31:07.761Z",
   "bundles": {
     "m.js": {
       "path": "m.js",
-      "hash": "a0932a644d76728b9f51ff60e61d28ad841f2704c3e6df6fd5a15b9904772bdd",
-      "size": 407227,
-      "updatedAt": "2026-05-25T21:25:45.272Z",
-      "version": "5.12.0"
+      "hash": "34560d5d0a90a533cb2c720d04e81230a724d181cc7e5a392fa7cba15bad8d6b",
+      "size": 409087,
+      "updatedAt": "2026-05-26T22:30:58.785Z",
+      "version": "5.12.1-hotfix.2"
     },
     "clean-arch.js": {
       "path": "clean-arch.js",
       "hash": "ae5ace47ee2c6fb27db6fa497dd2f8b22737cbcfdd0838c6647df2d4e4df40c5",
       "size": 72540,
-      "updatedAt": "2026-05-25T21:25:44.733Z",
-      "version": "5.12.0"
+      "updatedAt": "2026-05-26T22:22:48.880Z",
+      "version": "5.12.1-hotfix.2"
     },
     "miruro-domains.js": {
       "path": "miruro-domains.js",
       "hash": "8bf517cb1336b3a80728045b189ec92e75f7d48d1704e150cd4daa606da6e041",
       "size": 6268,
       "updatedAt": "2026-05-25T07:35:30.254Z",
-      "version": "5.12.0"
+      "version": "5.12.1-hotfix.2"
     }
-  }
+  },
+  "releaseNotes": "Fix Frieren S1/S2 confusion caused by Unicode apostrophe in AniList titles"
 }

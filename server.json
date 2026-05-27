@@ -1,9 +1,9 @@
 {
-  "update": "1.3-250525",
-  "appnum": 5121,
-  "appver": "5.12.1",
+  "update": "1.3-250527",
+  "appnum": 5122,
+  "appver": "5.12.2",
   "appsize": "6.02 MB",
-  "appurl": "https://github.com/k-nacion/rc-store/releases/download/5.12.1/5.12.1.apk",
-  "winurl": "https://github.com/k-nacion/rc-store/releases/download/5.12.1/5.12.1.exe",
-  "appnote": "- Fixed Anikoto race condition causing wrong video playback when navigating between anime"
+  "appurl": "https://github.com/k-nacion/rc-store/releases/download/5.12.2/5.12.2.apk",
+  "winurl": "https://github.com/k-nacion/rc-store/releases/download/5.12.2/5.12.2.exe",
+  "appnote": "- Fixed duplicate home sections on Android (self-healing storage cleanup)"
 }

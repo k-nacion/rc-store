@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-05-26T21:42:53.428Z",
+  "generatedAt": "2026-05-27T17:10:48.900Z",
   "extensions": {
     "anikoto": {
       "id": "anikoto",
@@ -8,11 +8,11 @@
       "version": "1.0.0",
       "description": "",
       "file": "anikoto.js",
-      "hash": "deae87d16dff6b3351a9c86b384ddc979f66a9bcd97ab980f05180670122d0ac",
+      "hash": "696596b79325e07c3f834cd576b5771272b55b960ee8eb5609a7ccd05d31f1bc",
       "size": 22878,
       "enabledByDefault": true,
       "priority": 10,
-      "updatedAt": "2026-05-26T21:42:53.425Z"
+      "updatedAt": "2026-05-27T17:10:48.899Z"
     },
     "example-hello": {
       "id": "example-hello",
@@ -20,11 +20,11 @@
       "version": "1.0.0",
       "description": "",
       "file": "example-hello.js",
-      "hash": "f257c771a0cb2c0a8c9d3110415f5474e088017bc643bbe816d38e9de818e6c8",
+      "hash": "dd61db1c276fca6e738ce6a4a4f6789f1ccd0f2ac5ea6d72c038f8bd2886247a",
       "size": 1733,
       "enabledByDefault": true,
       "priority": 10,
-      "updatedAt": "2026-05-26T21:42:53.427Z"
+      "updatedAt": "2026-05-27T17:10:48.900Z"
     }
   }
 }

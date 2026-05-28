@@ -1,9 +1,9 @@
 {
-  "update": "1.3-250527",
-  "appnum": 5122,
-  "appver": "5.12.2",
+  "update": "1.3-250528",
+  "appnum": 5123,
+  "appver": "5.12.3",
   "appsize": "6.02 MB",
-  "appurl": "https://github.com/k-nacion/rc-store/releases/download/5.12.2/5.12.2.apk",
-  "winurl": "https://github.com/k-nacion/rc-store/releases/download/5.12.2/5.12.2.exe",
-  "appnote": "- Fixed duplicate home sections on Android (self-healing storage cleanup)"
+  "appurl": "https://github.com/k-nacion/rc-store/releases/download/5.12.3/5.12.3.apk",
+  "winurl": "https://github.com/k-nacion/rc-store/releases/download/5.12.3/5.12.3.exe",
+  "appnote": "- Fixed SD9 (Anikoto) playing wrong anime due to fuzzy title matching. Now uses strict ID validation — if the exact anime isn't found on the source, it won't play the wrong one."
 }

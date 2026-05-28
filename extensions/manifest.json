@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-05-27T17:10:48.900Z",
+  "generatedAt": "2026-05-27T17:51:06.853Z",
   "extensions": {
     "anikoto": {
       "id": "anikoto",
@@ -10,9 +10,10 @@
       "file": "anikoto.js",
       "hash": "696596b79325e07c3f834cd576b5771272b55b960ee8eb5609a7ccd05d31f1bc",
       "size": 22878,
+      "signature": "bd3c8cf7183e32318faaeb32a67ff94ed9f42b0f566adab12975829b4ab59c4c9f7742d15b7c2bab49a8354b7ddbecda4bfd4665a049c779b82fd4e6f2588908",
       "enabledByDefault": true,
       "priority": 10,
-      "updatedAt": "2026-05-27T17:10:48.899Z"
+      "updatedAt": "2026-05-27T17:51:06.851Z"
     },
     "example-hello": {
       "id": "example-hello",
@@ -22,9 +23,10 @@
       "file": "example-hello.js",
       "hash": "dd61db1c276fca6e738ce6a4a4f6789f1ccd0f2ac5ea6d72c038f8bd2886247a",
       "size": 1733,
+      "signature": "9370103a4f6d650beeed6bbed9df4870ccfe826862193224ecb929f63a7b51fd4ecf800746a17fb3c43cb209374e09294a49dab9ed357d4010eb19184de50c06",
       "enabledByDefault": true,
       "priority": 10,
-      "updatedAt": "2026-05-27T17:10:48.900Z"
+      "updatedAt": "2026-05-27T17:51:06.853Z"
     }
   }
 }

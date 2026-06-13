@@ -1,9 +1,9 @@
 {
-  "update": "1.3-250530",
-  "appnum": 5130,
-  "appver": "5.13.0",
+  "update": "1.3-250614",
+  "appnum": 5140,
+  "appver": "5.14.0",
   "appsize": "6.02 MB",
-  "appurl": "https://github.com/k-nacion/rc-store/releases/download/5.13.0/5.13.0.apk",
+  "appurl": "https://github.com/k-nacion/rc-store/releases/download/5.14.0/5.14.0.apk",
   "winurl": "https://github.com/k-nacion/rc-store/releases/download/5.13.0/5.13.0.exe",
-  "appnote": "What's New in v5.13.0:\n- You can now set content filtering on the app (admin parental control) to restrict mature-rated anime\n- Content ratings now show on anime tooltips so you know the rating before watching\n- Added a new video source (Bonk) for more streaming options\n- Switching sources is now faster — the app auto-picks the fastest server for you\n- Fixed multiple memory leaks and crashes on Android TV\n- Videos now load and start playing faster thanks to optimized buffering\n- Fixed an issue where the wrong anime could play when titles were similar\n- Removed insecure network connections for better security"
+  "appnote": "What's New in v5.14.0:\n- Added Movies integration with TMDB metadata for movies and TV shows\n- New search filters with slide-out panel for better content discovery\n- Stream source caching for faster server loading\n- Improved subtitle support with ASS/SSA escape character handling\n- Fixed multiple playback issues across providers\n- Added experimental sources toggle in sidebar\n- Various D-pad navigation and focus fixes"
 }

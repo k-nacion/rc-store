@@ -1,9 +1,9 @@
 {
-  "update": "1.3-250615",
-  "appnum": 5141,
-  "appver": "5.14.1",
-  "appsize": "6.02 MB",
-  "appurl": "https://github.com/k-nacion/rc-store/releases/download/5.14.1/5.14.1.apk",
+  "update": "1.3-260622",
+  "appnum": 5142,
+  "appver": "5.14.2",
+  "appsize": "6.6 MB",
+  "appurl": "https://github.com/k-nacion/rc-store/releases/download/5.14.2/5.14.2.apk",
   "winurl": "https://github.com/k-nacion/rc-store/releases/download/5.14.1/5.14.1.exe",
-  "appnote": "What's New in v5.14.1:\n- Redesigned Movies detail view with full-screen background poster\n- Cleaner movie/TV tile layout with genre and metadata\n- MyList selection no longer resets when list refreshes\n- Season & episode picker now remembers your watch progress\n- Improved streaming stability and playback reliability\n- Fixed crash on long video segments\n- UI layout fixes for various screen sizes"
+  "appnote": "What's New in v5.14.2:\n- Fixed video playback issues on several streaming sources\n- Resolved episodes failing to load on certain shows\n- Improved streaming reliability and connection handling\n- Fixed seeking and skipping getting stuck during playback\n- General stability improvements"
 }

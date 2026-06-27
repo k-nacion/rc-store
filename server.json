@@ -1,9 +1,10 @@
 {
-  "update": "1.3-260622",
-  "appnum": 5142,
-  "appver": "5.14.2",
+  "update": "1.3-260627",
+  "appnum": 5143,
+  "appver": "5.14.3",
   "appsize": "6.6 MB",
-  "appurl": "https://github.com/k-nacion/rc-store/releases/download/5.14.2/5.14.2.apk",
-  "winurl": "https://github.com/k-nacion/rc-store/releases/download/5.14.1/5.14.1.exe",
-  "appnote": "What's New in v5.14.2:\n- Fixed video playback issues on several streaming sources\n- Resolved episodes failing to load on certain shows\n- Improved streaming reliability and connection handling\n- Fixed seeking and skipping getting stuck during playback\n- General stability improvements"
+  "appurl": "https://github.com/k-nacion/rc-store/releases/download/5.14.3/5.14.3.apk",
+  "winurl": "https://github.com/k-nacion/rc-store/releases/download/5.14.3/5.14.3.exe",
+  "appnote": "What's New in v5.14.3:\n- Fixed video playback for Movies & TV after recent source outage\n- Improved Movies & TV page with better visuals and smoother navigation\n- Fixed portrait mode display issues\n- Fixed My List reorder not saving properly\n- Improved image loading performance\n- Fixed scroll position resetting when going back\n- Fixed various focus and navigation issues on remote control\n- General stability improvements"
 }
+
